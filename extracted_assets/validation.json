@@ -1,0 +1,197 @@
+{
+  "root": "C:\\work\\MoFaXunXian\\extracted_assets",
+  "json_configs_created": 13,
+  "file_count": 16304,
+  "total_bytes": 309907515,
+  "zero_byte_files": [],
+  "manifest_statuses": {
+    "ok": 8343,
+    "metadata_only": 12
+  },
+  "manifest_error_kinds": {
+    "read: Expected to read 136 bytes, but only read 32 bytes": 737,
+    "read: Expected to read 312 bytes, but only read 32 bytes": 132,
+    "read: Expected to read 504 bytes, but only read 32 bytes": 53,
+    "read: Expected to read 512 bytes, but only read 32 bytes": 38,
+    "read: Expected to read 508 bytes, but only read 32 bytes": 36,
+    "read: Expected to read 156 bytes, but only read 32 bytes": 33,
+    "read: Expected to read 60 bytes, but only read 32 bytes": 33,
+    "read: Expected to read 344 bytes, but only read 32 bytes": 29,
+    "read: Expected to read 36 bytes, but only read 32 bytes": 29,
+    "read: Expected to read 160 bytes, but only read 32 bytes": 28,
+    "read: Expected to read 84 bytes, but only read 32 bytes": 27,
+    "read: Expected to read 532 bytes, but only read 32 bytes": 19,
+    "read: Expected to read 516 bytes, but only read 32 bytes": 16,
+    "read: Expected to read 172 bytes, but only read 32 bytes": 14,
+    "read: Expected to read 44 bytes, but only read 32 bytes": 13,
+    "read: Expected to read 128 bytes, but only read 32 bytes": 12,
+    "read: Expected to read 164 bytes, but only read 32 bytes": 12,
+    "read: Expected to read 272 bytes, but only read 32 bytes": 9,
+    "read: Expected to read 40 bytes, but only read 32 bytes": 8,
+    "read: Expected to read 168 bytes, but only read 32 bytes": 8
+  },
+  "images": {
+    "count": 982,
+    "valid": 982,
+    "invalid": []
+  },
+  "audio": {
+    "count": 6,
+    "valid": 6,
+    "items": [
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_bghome_2556272068230318523.m4a",
+        "bytes": 5508357,
+        "format": "m4a/mp4",
+        "valid": true
+      },
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_BGM_Home_2861484186943574357.m4a",
+        "bytes": 2411188,
+        "format": "m4a/mp4",
+        "valid": true
+      },
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_Click_3812893928599759885.m4a",
+        "bytes": 10669,
+        "format": "m4a/mp4",
+        "valid": true
+      },
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_SE_Break_-488413634969029671.m4a",
+        "bytes": 29787,
+        "format": "m4a/mp4",
+        "valid": true
+      },
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_SE_GoldChange_7814516937241222838.m4a",
+        "bytes": 13642,
+        "format": "m4a/mp4",
+        "valid": true
+      },
+      {
+        "path": "audio\\music_9f0e75a8109ae8d60d0c49c6530b05a8_SE_SearchItem_-1119411373879720452.m4a",
+        "bytes": 17322,
+        "format": "m4a/mp4",
+        "valid": true
+      }
+    ]
+  },
+  "fonts": {
+    "count": 8,
+    "valid": 8,
+    "items": [
+      {
+        "path": "fonts\\147a58b797a7d2ac.webgl.data.unityweb_JINGNANJUNJUNTI-JINNANJUNJUNTI-BOLD-2_26.ttf",
+        "bytes": 2032840,
+        "valid": true
+      },
+      {
+        "path": "fonts\\147a58b797a7d2ac.webgl.data.unityweb_LegacyRuntime_10102.ttf",
+        "bytes": 50788,
+        "valid": true
+      },
+      {
+        "path": "fonts\\147a58b797a7d2ac.webgl.data.unityweb_LiberationSans_27.ttf",
+        "bytes": 350200,
+        "valid": true
+      },
+      {
+        "path": "fonts\\bagexchangepanel_91cfde748ba87076bcad8ab74851fcf4_LiberationSans_-1992918319746030303.ttf",
+        "bytes": 350200,
+        "valid": true
+      },
+      {
+        "path": "fonts\\dialoguepanel_2155c705a9130d1f8eacc71a34e69bd8_LiberationSans_-1992918319746030303.ttf",
+        "bytes": 350200,
+        "valid": true
+      },
+      {
+        "path": "fonts\\font_003bbdfb9acd21474c577ab86ddbc63c_JINGNANJUNJUNTI-JINNANJUNJUNTI-BOLD-2_220896215927894673.ttf",
+        "bytes": 2032840,
+        "valid": true
+      },
+      {
+        "path": "fonts\\font_003bbdfb9acd21474c577ab86ddbc63c_字库江湖古风体_-5892238605565741872.ttf",
+        "bytes": 3779368,
+        "valid": true
+      },
+      {
+        "path": "fonts\\trainingpanel_aaa8f6b3920399316566a8a084225c25_LiberationSans_-1992918319746030303.ttf",
+        "bytes": 350200,
+        "valid": true
+      }
+    ]
+  },
+  "meshes": {
+    "count": 13,
+    "valid": 13,
+    "items": [
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Capsule_10208.obj",
+        "bytes": 91357,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Cube_10202.obj",
+        "bytes": 1192,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Cylinder_10206.obj",
+        "bytes": 8968,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_icosahedron_10212.obj",
+        "bytes": 1046,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Icosphere_10211.obj",
+        "bytes": 4196,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_pCylinder1_10203.obj",
+        "bytes": 10224,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Plane_10209.obj",
+        "bytes": 14000,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_polySurface2_10205.obj",
+        "bytes": 66761,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_pPlane1_10204.obj",
+        "bytes": 14862,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_pSphere1_10200.obj",
+        "bytes": 70610,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_pyramid_10213.obj",
+        "bytes": 255,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Quad_10210.obj",
+        "bytes": 246,
+        "valid": true
+      },
+      {
+        "path": "meshes\\147a58b797a7d2ac.webgl.data.unityweb_Sphere_10207.obj",
+        "bytes": 84355,
+        "valid": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+﻿[
+  {
+    "id": "-5",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "-4",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "-3",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "-2",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "-1",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "0",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "1",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "2",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "3",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "4",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "5",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "6",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "7",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "8",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "9",
+    "heatstrokeRate": "0",
+    "faverRate": "0.3",
+    "coldRate": "0.3"
+  },
+  {
+    "id": "10",
+    "heatstrokeRate": "0",
+    "faverRate": "0.2",
+    "coldRate": "0.2"
+  },
+  {
+    "id": "11",
+    "heatstrokeRate": "0",
+    "faverRate": "0.18",
+    "coldRate": "0.18"
+  },
+  {
+    "id": "12",
+    "heatstrokeRate": "0",
+    "faverRate": "0.16",
+    "coldRate": "0.16"
+  },
+  {
+    "id": "13",
+    "heatstrokeRate": "0",
+    "faverRate": "0.14",
+    "coldRate": "0.14"
+  },
+  {
+    "id": "14",
+    "heatstrokeRate": "0",
+    "faverRate": "0.12",
+    "coldRate": "0.12"
+  },
+  {
+    "id": "15",
+    "heatstrokeRate": "0",
+    "faverRate": "0.1",
+    "coldRate": "0.1"
+  },
+  {
+    "id": "16",
+    "heatstrokeRate": "0",
+    "faverRate": "0.08",
+    "coldRate": "0.08"
+  },
+  {
+    "id": "17",
+    "heatstrokeRate": "0",
+    "faverRate": "0.06",
+    "coldRate": "0.06"
+  },
+  {
+    "id": "18",
+    "heatstrokeRate": "0",
+    "faverRate": "0.04",
+    "coldRate": "0.04"
+  },
+  {
+    "id": "19",
+    "heatstrokeRate": "0",
+    "faverRate": "0.02",
+    "coldRate": "0.02"
+  },
+  {
+    "id": "20",
+    "heatstrokeRate": "0",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "21",
+    "heatstrokeRate": "0",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "22",
+    "heatstrokeRate": "0",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "23",
+    "heatstrokeRate": "0",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "24",
+    "heatstrokeRate": "0",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "25",
+    "heatstrokeRate": "0.0499999999999994",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "26",
+    "heatstrokeRate": "0.0999999999999994",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "27",
+    "heatstrokeRate": "0.149999999999999",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "28",
+    "heatstrokeRate": "0.2",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "29",
+    "heatstrokeRate": "0.25",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "30",
+    "heatstrokeRate": "0.3",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "31",
+    "heatstrokeRate": "0.35",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "32",
+    "heatstrokeRate": "0.4",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "33",
+    "heatstrokeRate": "0.45",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "34",
+    "heatstrokeRate": "0.5",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "35",
+    "heatstrokeRate": "0.55",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "36",
+    "heatstrokeRate": "0.6",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "37",
+    "heatstrokeRate": "0.65",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "38",
+    "heatstrokeRate": "0.7",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "39",
+    "heatstrokeRate": "0.75",
+    "faverRate": "0",
+    "coldRate": "0"
+  },
+  {
+    "id": "40",
+    "heatstrokeRate": "0.8",
+    "faverRate": "0",
+    "coldRate": "0"
+  }
+]

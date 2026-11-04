@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "101",
+    "name": "弟子1",
+    "gender": "0",
+    "picStr": "img_dz_1"
+  },
+  {
+    "id": "102",
+    "name": "弟子2",
+    "gender": "1",
+    "picStr": "img_dz_2"
+  },
+  {
+    "id": "103",
+    "name": "弟子3",
+    "gender": "1",
+    "picStr": "img_dz_3"
+  },
+  {
+    "id": "104",
+    "name": "弟子4",
+    "gender": "1",
+    "picStr": "img_dz_4"
+  },
+  {
+    "id": "105",
+    "name": "弟子5",
+    "gender": "0",
+    "picStr": "img_dz_5"
+  },
+  {
+    "id": "106",
+    "name": "弟子6",
+    "gender": "0",
+    "picStr": "img_dz_6"
+  }
+]

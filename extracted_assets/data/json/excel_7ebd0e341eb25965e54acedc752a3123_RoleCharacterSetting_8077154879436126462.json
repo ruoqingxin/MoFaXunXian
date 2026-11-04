@@ -1,0 +1,72 @@
+﻿[
+  {
+    "id": "101",
+    "characterName": "猫",
+    "skillName": "猫的狡黠",
+    "skillDes": "移动过程中有概率偷窃物品",
+    "effect": "RoleHiddenValue:331,+1",
+    "initialL": "4",
+    "initialM": "8",
+    "initialZ": "6",
+    "proba": "0.15",
+    "maxCount": "3",
+    "cost": "0",
+    "drink": "5"
+  },
+  {
+    "id": "102",
+    "characterName": "乌鸦",
+    "skillName": "鸦的欺诈",
+    "skillDes": "五连抽有概率全变为相同的卡牌",
+    "effect": "RoleHiddenValue:348,+1",
+    "initialL": "4",
+    "initialM": "6",
+    "initialZ": "8",
+    "proba": "0.09",
+    "maxCount": "-1",
+    "cost": "100",
+    "drink": "5"
+  },
+  {
+    "id": "103",
+    "characterName": "卡皮巴拉",
+    "skillName": "豚的核桃",
+    "skillDes": "携带一对【核桃】进入游戏",
+    "effect": "GetItem:147,1",
+    "initialL": "5",
+    "initialM": "6",
+    "initialZ": "6",
+    "proba": "-1",
+    "maxCount": "-1",
+    "cost": "-1",
+    "drink": "5"
+  },
+  {
+    "id": "104",
+    "characterName": "蜜獾",
+    "skillName": "勇敢无畏",
+    "skillDes": "战斗有概率不受伤",
+    "effect": "RoleHiddenValue:353,+1",
+    "initialL": "8",
+    "initialM": "5",
+    "initialZ": "5",
+    "proba": "0.55",
+    "maxCount": "-1",
+    "cost": "100",
+    "drink": "5"
+  },
+  {
+    "id": "105",
+    "characterName": "熊猫",
+    "skillName": "竹韵商道 ",
+    "skillDes": "交易市场卖出价格+50%",
+    "effect": "RoleHiddenValue:354,+0.5",
+    "initialL": "6",
+    "initialM": "5",
+    "initialZ": "6",
+    "proba": "-1",
+    "maxCount": "-1",
+    "cost": "-2",
+    "drink": "6"
+  }
+]

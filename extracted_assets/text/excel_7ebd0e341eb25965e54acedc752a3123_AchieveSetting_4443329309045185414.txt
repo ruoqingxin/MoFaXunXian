@@ -1,0 +1,308 @@
+﻿[
+  {
+    "id": "1001",
+    "title": "重获新生",
+    "des": "成功使用保释卡出狱",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "109"
+  },
+  {
+    "id": "1002",
+    "title": "离笼之鸟",
+    "des": "触发越狱结局并成功逃离",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "107"
+  },
+  {
+    "id": "1003",
+    "title": "关键证人",
+    "des": "触发【举报结局】并成功获得账本",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "111"
+  },
+  {
+    "id": "1004",
+    "title": "灰影之王",
+    "des": "成功与【浣熊】建立【灰影】并达成结局",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "113"
+  },
+  {
+    "id": "1005",
+    "title": "佳人成双",
+    "des": "触发【助理结局】并成功赢得比赛",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "115"
+  },
+  {
+    "id": "1006",
+    "title": "藤蔓日茂",
+    "des": "成功将神秘包裹送给老虎",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "117"
+  },
+  {
+    "id": "1007",
+    "title": "青藤易主",
+    "des": "将神秘包裹还给典狱长",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "118"
+  },
+  {
+    "id": "1008",
+    "title": "推毂进贤",
+    "des": "成功帮助【野猪】上位",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "119"
+  },
+  {
+    "id": "1009",
+    "title": "掌盟之主",
+    "des": "成功当上【掌盟】老大",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "120"
+  },
+  {
+    "id": "1011",
+    "title": "黄金之血",
+    "des": "五连抽到5张金卡",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1012",
+    "title": "杰哥这也有你？",
+    "des": "【搜打撤活动】中遇到杰哥",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1013",
+    "title": "交友下血本的吗？",
+    "des": "给任意囚犯送出【红卡】作为礼物",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1014",
+    "title": "谁还没个仇人？",
+    "des": "使任意囚犯对你的好感到达-100",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1015",
+    "title": "到底是谁！",
+    "des": "被小偷偷窃5张牌",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1016",
+    "title": "%￥&（￥*…",
+    "des": "被小偷送牌",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1017",
+    "title": "股市有风险",
+    "des": "股市爆仓时持股数大于1000",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1018",
+    "title": "速通",
+    "des": "7天内通关",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1019",
+    "title": "我才是神偷",
+    "des": "连续成功偷窃任意囚犯5次",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1020",
+    "title": "你的招数皆被我识破",
+    "des": "与【浣熊】赌博成功赢得800元奖励",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1021",
+    "title": "得罪了方丈还能走？",
+    "des": "与【典狱长】负好感通关情况下通关",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1022",
+    "title": "无处不在",
+    "des": "创建【灰影】后将所有中立囚犯收编",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1023",
+    "title": "意外之喜Ⅰ",
+    "des": "食堂垃圾桶翻出保释卡",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1024",
+    "title": "意外之喜Ⅱ",
+    "des": "【搜打撤活动】中发现保释卡",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1025",
+    "title": "意外之喜Ⅲ",
+    "des": "【青藤会商店】礼盒开出保释卡",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1026",
+    "title": "意外之喜Ⅳ",
+    "des": "晚上在【浣熊】收信收到保释卡",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1027",
+    "title": "美梦一场",
+    "des": "未能帮助典狱长收集10张门票",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "121"
+  },
+  {
+    "id": "1028",
+    "title": "各取所需",
+    "des": "成功帮助典狱长收集10张门票",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "122"
+  },
+  {
+    "id": "1029",
+    "title": "永生之秘",
+    "des": "通过狐狸的帮助集齐门票并拒绝典狱长",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "123"
+  },
+  {
+    "id": "1030",
+    "title": "屠龙少年",
+    "des": "通过狐狸的帮助集齐门票并接受典狱长",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "126"
+  },
+  {
+    "id": "1031",
+    "title": "为人作嫁",
+    "des": "转移了典狱长的门票但没有到10000张",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "127"
+  },
+  {
+    "id": "1032",
+    "title": "人到底能闯多大祸",
+    "des": "使一个陌生账号集齐10000张门票",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": "128"
+  },
+  {
+    "id": "1033",
+    "title": "人见人爱",
+    "des": "全员好感度拉满",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": null
+  },
+  {
+    "id": "1034",
+    "title": "特殊体质",
+    "des": "同时存在10个或以上的buff",
+    "needCount": "1",
+    "reward": "50",
+    "progress": "10",
+    "endingId": null
+  },
+  {
+    "id": "1035",
+    "title": "传奇耐活王",
+    "des": "生存大于等于100天",
+    "needCount": "1",
+    "reward": "100",
+    "progress": "20",
+    "endingId": null
+  }
+]
